@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StevenTheDog1
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me sjford2025@gmail.com
 
 <!---
